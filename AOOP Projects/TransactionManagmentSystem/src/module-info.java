@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module TransactionManagmentSystem {
+	requires junit;
+}
